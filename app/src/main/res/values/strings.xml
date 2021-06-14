@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HomeAPP</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="this_is_first_fragment">this is first fragment</string>
+    <string name="this_is_fourth_fragment">this is fourth fragment</string>
+    <string name="this_is_second_fragment">this is second fragment</string>
+</resources>
